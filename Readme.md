@@ -40,7 +40,7 @@ To implement this functionality, get the [value](https://js.devexpress.com/Docum
 
 ## More Examples
 
-- [DataGrid for DevExtreme - How to implement cascading DropDownBoxes](https://github.com/DevExpress-Examples/DataGrid---How-to-implement-cascading-dropdownboxes)
+- [DataGrid for DevExtreme - How to implement cascading DropDownBoxes](https://github.com/DevExpress-Examples/devextreme-datagrid-implement-cascading-dropdownboxes)
 <!-- feedback -->
 ## Does this example address your development requirements/objectives?
 
